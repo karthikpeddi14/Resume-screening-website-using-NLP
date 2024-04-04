@@ -1,0 +1,65 @@
+John Doe
+
+123 Main Street, Anytown, USA | (555) 123-4567 | johndoe@email.com
+
+Objective:
+Highly motivated and detail-oriented individual seeking a challenging position in software engineering where I can utilize my skills in full-stack development and contribute to innovative projects.
+
+Education:
+
+Bachelor of Science in Computer Science
+University of Technology, Anytown, USA
+GPA: 3.8/4.0
+Graduated: May 20XX
+
+Skills:
+
+Programming Languages: Python, JavaScript, Java, C++
+Web Development: HTML/CSS, React, Node.js, Express.js
+Databases: SQL, MongoDB
+Frameworks & Libraries: Django, Flask, jQuery
+Version Control: Git
+Agile Development Methodologies
+Experience:
+
+Software Engineer Intern
+XYZ Tech Company, Anytown, USA
+May 20XX - August 20XX
+
+Developed RESTful APIs using Node.js and Express.js for a web application.
+Implemented front-end features using React.js, HTML/CSS, and jQuery.
+Collaborated with team members in Agile sprints to deliver project milestones on time.
+IT Support Specialist
+ABC Consulting Services, Anytown, USA
+September 20XX - April 20XX
+
+Provided technical support to end-users, troubleshooting hardware and software issues.
+Managed IT infrastructure, including network configurations and system updates.
+Conducted training sessions for employees on software applications and best practices.
+Projects:
+
+Online Portfolio Website
+
+Developed a personal portfolio website using React.js and deployed it using GitHub Pages.
+Showcased projects, skills, and contact information to potential employers.
+Inventory Management System
+
+Designed and implemented an inventory management system using Python and Django.
+Integrated user authentication, product management, and reporting features.
+Certifications:
+
+AWS Certified Cloud Practitioner
+Microsoft Certified: Azure Fundamentals
+Cisco Certified Entry Networking Technician (CCENT)
+Volunteer Experience:
+
+STEM Mentor
+STEM Outreach Program, Anytown, USA
+September 20XX - Present
+
+Mentored high school students interested in pursuing careers in STEM fields.
+Provided guidance on college applications, resume writing, and interview preparation.
+Languages:
+
+English (Native)
+Spanish (Conversational)
